@@ -1,0 +1,6 @@
+E:\IoT\MvcEngine\bin\Debug\MvcEngine.dll
+E:\IoT\MvcEngine\bin\Debug\MvcEngine.pdb
+E:\IoT\MvcEngine\obj\Debug\MvcEngine.csprojAssemblyReference.cache
+E:\IoT\MvcEngine\obj\Debug\MvcEngine.csproj.CoreCompileInputs.cache
+E:\IoT\MvcEngine\obj\Debug\MvcEngine.dll
+E:\IoT\MvcEngine\obj\Debug\MvcEngine.pdb

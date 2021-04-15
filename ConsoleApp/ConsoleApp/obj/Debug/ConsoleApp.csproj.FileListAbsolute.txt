@@ -1,0 +1,14 @@
+E:\IoT\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\IoT\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\MvcEngine.dll
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\VstJson.dll
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\MvcEngine.pdb
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\VstJson.pdb
+E:\IoT\ConsoleApp\ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+E:\IoT\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+E:\IoT\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\IoT\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb

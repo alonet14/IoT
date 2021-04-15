@@ -1,0 +1,13 @@
+E:\IoT\WPF\MyControls\obj\Debug\MyControls.csprojAssemblyReference.cache
+E:\IoT\WPF\MyControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache
+E:\IoT\WPF\MyControls\bin\Debug\MyControls.dll
+E:\IoT\WPF\MyControls\bin\Debug\MyControls.pdb
+E:\IoT\WPF\MyControls\bin\Debug\MvcEngine.dll
+E:\IoT\WPF\MyControls\bin\Debug\VstJson.dll
+E:\IoT\WPF\MyControls\bin\Debug\Newtonsoft.Json.dll
+E:\IoT\WPF\MyControls\bin\Debug\MvcEngine.pdb
+E:\IoT\WPF\MyControls\bin\Debug\VstJson.pdb
+E:\IoT\WPF\MyControls\bin\Debug\Newtonsoft.Json.xml
+E:\IoT\WPF\MyControls\obj\Debug\MyControls.csproj.CopyComplete
+E:\IoT\WPF\MyControls\obj\Debug\MyControls.dll
+E:\IoT\WPF\MyControls\obj\Debug\MyControls.pdb

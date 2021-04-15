@@ -1,0 +1,8 @@
+E:\IoT\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+E:\IoT\VstJson\VstJson\bin\Debug\VstJson.dll
+E:\IoT\VstJson\VstJson\bin\Debug\VstJson.pdb
+E:\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.dll
+E:\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.xml
+E:\IoT\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+E:\IoT\VstJson\VstJson\obj\Debug\VstJson.dll
+E:\IoT\VstJson\VstJson\obj\Debug\VstJson.pdb
