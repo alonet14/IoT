@@ -16,11 +16,12 @@ namespace WepApp.Controllers
             if (lst.Count == 0)
             {
                 var signals = CreateSignals();
-                for (int i = 0; i < 4; i++)
-                {
-                    var key = "LED" + i;
-                    signals.Add(key, 0);
-                }
+                //for (int i = 0; i < 4; i++)
+                //{
+                    //var key = "led" + i;
+                    //trùng key khi xóa và thêm
+                    //signals.add(key, 0);
+                //}
                 for (int i = 0; i < 10; i++)
                 {
                     string id = string.Format("LTNC{0:0000}", i + 1);

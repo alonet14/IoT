@@ -37,6 +37,7 @@
         }
         return this;
     }
+
     this.child = function (e) {
         this.node.appendChild(e.node);
         return e;
