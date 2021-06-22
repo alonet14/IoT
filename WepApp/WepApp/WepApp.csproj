@@ -203,6 +203,106 @@
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="App_Data\MainDB\Account\admin" />
+    <Content Include="App_Data\MainDB\Account\binh" />
+    <Content Include="App_Data\MainDB\Device\DC-001" />
+    <Content Include="App_Data\MainDB\Device\LTNC0003" />
+    <Content Include="App_Data\MainDB\Device\LTNC0004" />
+    <Content Include="App_Data\MainDB\Device\LTNC0005" />
+    <Content Include="App_Data\MainDB\User\026fd74036ab618d502a30a4dd952f2d" />
+    <Content Include="App_Data\MainDB\User\08cb203fbedc61f8c37b2a1e6aecbc16" />
+    <Content Include="App_Data\MainDB\User\0c3ac1accb41504438e9939660e08138" />
+    <Content Include="App_Data\MainDB\User\0e1a82e01f36cefc6c5277e0b825620c" />
+    <Content Include="App_Data\MainDB\User\10d415b4b3d01ef38eb761d316c8d5a5" />
+    <Content Include="App_Data\MainDB\User\14662308c2ded5539a066ea5f5f75126" />
+    <Content Include="App_Data\MainDB\User\174a7541125348ac9c9fabb96f989052" />
+    <Content Include="App_Data\MainDB\User\19c727259dcec05ebdb7bbb37aaa07a0" />
+    <Content Include="App_Data\MainDB\User\1b222650db0b07d17bc5c8c6945a3911" />
+    <Content Include="App_Data\MainDB\User\1c37dbdaf6e337549c7a66a3349c38ca" />
+    <Content Include="App_Data\MainDB\User\22085e617609a2414713dffefaec6124" />
+    <Content Include="App_Data\MainDB\User\2543587970f98fd500fa8dd9e80dcb0f" />
+    <Content Include="App_Data\MainDB\User\2d7e53aa28ed87472c26c0c3079c558d" />
+    <Content Include="App_Data\MainDB\User\2ed74cb64be1b317ab1f5a0ff309bfdc" />
+    <Content Include="App_Data\MainDB\User\2fee76a8940d01063b05b93c8d2d5684" />
+    <Content Include="App_Data\MainDB\User\3631d1e66b527bdf0605653c5802dcac" />
+    <Content Include="App_Data\MainDB\User\36ce253730f1333c3bb06cbd1496164d" />
+    <Content Include="App_Data\MainDB\User\3aafd8ede130395ed52924ba42605728" />
+    <Content Include="App_Data\MainDB\User\3ac852480db79bfc028080305d272e0f" />
+    <Content Include="App_Data\MainDB\User\46dd9bfab607488c9a7f3d3eedce55f8" />
+    <Content Include="App_Data\MainDB\User\494ef3ea0f8f0369a4878d4dae0ae604" />
+    <Content Include="App_Data\MainDB\User\4abef9b6e725550707832e385e149034" />
+    <Content Include="App_Data\MainDB\User\4b3811c43a94deb891fd56bffa3aba26" />
+    <Content Include="App_Data\MainDB\User\4bdcebc3a086af44213b1c0bb59157dc" />
+    <Content Include="App_Data\MainDB\User\4d2024717944e6a9dfc338d5f00f4ba5" />
+    <Content Include="App_Data\MainDB\User\51730dc29631c6a85b4ea0b0d1973617" />
+    <Content Include="App_Data\MainDB\User\53511667a1b914ce5d1e33c4970be1d4" />
+    <Content Include="App_Data\MainDB\User\547c36eedc2098cb1e09349cb91b46e8" />
+    <Content Include="App_Data\MainDB\User\54a671317d83506e8eca43ca015404dc" />
+    <Content Include="App_Data\MainDB\User\578764795335f2bd04d317b129dbc26b" />
+    <Content Include="App_Data\MainDB\User\579d4551d3ba5cb3bb62e866f3e76aba" />
+    <Content Include="App_Data\MainDB\User\6297f39da299dde408353b58e55b6d12" />
+    <Content Include="App_Data\MainDB\User\69760d9ba70b0a808f95568899a247ee" />
+    <Content Include="App_Data\MainDB\User\71afb473a3df551a6f40889a96934c35" />
+    <Content Include="App_Data\MainDB\User\73a5e7e551f28e84e618166e1ece2555" />
+    <Content Include="App_Data\MainDB\User\76e875a52cc751cde8b1ca7e9b4fb309" />
+    <Content Include="App_Data\MainDB\User\7ed78ecd1ffc8a12944d5185ec879d0d" />
+    <Content Include="App_Data\MainDB\User\7f5a2be00ee4a47fabfccfcb1d830247" />
+    <Content Include="App_Data\MainDB\User\7fd6ef73d93311810a42e0ee9df60011" />
+    <Content Include="App_Data\MainDB\User\7fdf8a56b193a1cfc7131281531ac48b" />
+    <Content Include="App_Data\MainDB\User\822abaea03ab00c76f321569b8362576" />
+    <Content Include="App_Data\MainDB\User\85f611045b88bfb0b204425ec77df7dc" />
+    <Content Include="App_Data\MainDB\User\89c0e710513c9a397ac78ed090d7c974" />
+    <Content Include="App_Data\MainDB\User\8f0b21e264b11031fb7297b620d81878" />
+    <Content Include="App_Data\MainDB\User\91134280cb38c3c1c492078d60c2fa4d" />
+    <Content Include="App_Data\MainDB\User\937793bdddb8116f37dc3cd828b63843" />
+    <Content Include="App_Data\MainDB\User\95e98699f81dbe29e17905b07069a87d" />
+    <Content Include="App_Data\MainDB\User\983890c1a68e014951370f003029bc20" />
+    <Content Include="App_Data\MainDB\User\98fc9772b3af8935cfb4638b9edfe58f" />
+    <Content Include="App_Data\MainDB\User\9a8732a2aba8a29fd50fbe9214766823" />
+    <Content Include="App_Data\MainDB\User\9e90433382db8b9b0fd88cc7c80588d8" />
+    <Content Include="App_Data\MainDB\User\a041ae88bb4e139a986aa08e2d0560e4" />
+    <Content Include="App_Data\MainDB\User\a08878bcaec2bf97dd3e4c832bfb9341" />
+    <Content Include="App_Data\MainDB\User\abfa9ad36d64937ceb688b33cced214b" />
+    <Content Include="App_Data\MainDB\User\aeea9272ce2c5368902aa4acdbdce805" />
+    <Content Include="App_Data\MainDB\User\b393c3aec05288adb390089af893e160" />
+    <Content Include="App_Data\MainDB\User\b5e62ac579bce4b51ecef69f653cceeb" />
+    <Content Include="App_Data\MainDB\User\b7c9df1eb4f591ea167c493d03a1996c" />
+    <Content Include="App_Data\MainDB\User\b989e8b5e35819421f14a8e21ab20015" />
+    <Content Include="App_Data\MainDB\User\bbf88cbf5c184abe7b0a7b6110f0904c" />
+    <Content Include="App_Data\MainDB\User\bc7faf72719ff2023d5f9086b8a1bfd8" />
+    <Content Include="App_Data\MainDB\User\bd4aa82d605b686b04433867dfff1b74" />
+    <Content Include="App_Data\MainDB\User\bff58279daa01f860a162f1a784c41fe" />
+    <Content Include="App_Data\MainDB\User\c0977291e1b094697b04c00f02eb2b92" />
+    <Content Include="App_Data\MainDB\User\c175a0c35a68c724eaf900187eb78ddb" />
+    <Content Include="App_Data\MainDB\User\c34934dace7b4e964af3cb0ea7b558d2" />
+    <Content Include="App_Data\MainDB\User\c3575b382093692ac905e9c6cf7cc20c" />
+    <Content Include="App_Data\MainDB\User\c3b5d938cd2cda7a5187b8a612141586" />
+    <Content Include="App_Data\MainDB\User\c4c207d86b245ae14e0ae7201b4cc252" />
+    <Content Include="App_Data\MainDB\User\c7f47fe817e9b91cc1f2911c2383b2cc" />
+    <Content Include="App_Data\MainDB\User\c9701a37fed7e025881bd602cdb884e6" />
+    <Content Include="App_Data\MainDB\User\cca271756e67a1d0fa18dddda7a5741e" />
+    <Content Include="App_Data\MainDB\User\cd5bb419b50d37de8810121337e6611b" />
+    <Content Include="App_Data\MainDB\User\cffae96ab9060b261ebf81128e371f6c" />
+    <Content Include="App_Data\MainDB\User\d51ab24abdab3ae831fc22cfa8c226da" />
+    <Content Include="App_Data\MainDB\User\d56e740b3e687351f2d4deebac813a5e" />
+    <Content Include="App_Data\MainDB\User\d9ef1b02dfb1a8c45077eb07cfca0f1c" />
+    <Content Include="App_Data\MainDB\User\dc5c3d3f9d116aab465304033541d032" />
+    <Content Include="App_Data\MainDB\User\dc68762fc8e058fc9820b5f88d2de2c2" />
+    <Content Include="App_Data\MainDB\User\de064a9de7fc75f15e17f92d6c665960" />
+    <Content Include="App_Data\MainDB\User\dfefee1ab19cb1ebd2347a27d7867b58" />
+    <Content Include="App_Data\MainDB\User\e502b0e1aa86179277b4c1c17d232536" />
+    <Content Include="App_Data\MainDB\User\e586a7d389e899ffc6ac497650e4f6a8" />
+    <Content Include="App_Data\MainDB\User\e777558cbb7c6a6f308e0055646dac24" />
+    <Content Include="App_Data\MainDB\User\ecdba44e63fb804e643ccdeb32d447ef" />
+    <Content Include="App_Data\MainDB\User\f1cb848a0c74a4739779f28a09a7a059" />
+    <Content Include="App_Data\MainDB\User\f59e904fa5fcf3509af7fbe9d7aea040" />
+    <Content Include="App_Data\MainDB\User\f65f86bb2e20bd7d35a5f16ec076a7b1" />
+    <Content Include="App_Data\MainDB\User\f6eb08dfabe1ba58f689ac9539e46d72" />
+    <Content Include="App_Data\MainDB\User\f7d236c01f995ea3912aa41964f1b02f" />
+    <Content Include="App_Data\MainDB\User\f959cf4e29e3ec34b53ff704e46e6b36" />
+    <Content Include="App_Data\MainDB\User\fc513c903a5b35438ce57b8e08ca089a" />
+    <Content Include="App_Data\MainDB\User\fe64c64175243af7a87a5be7c9273ecd" />
+    <Content Include="App_Data\MainDB\User\ff8b1f92436a6cfdbd4e883ad654f073" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -231,7 +331,6 @@
     <Content Include="Views\Device\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
@@ -291,7 +390,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>55515</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:44397/</IISUrl>
+          <IISUrl>http://localhost:8081/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

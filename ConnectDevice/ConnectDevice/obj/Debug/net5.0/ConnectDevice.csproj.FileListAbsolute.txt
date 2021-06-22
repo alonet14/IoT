@@ -1,0 +1,16 @@
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ConnectDevice.exe
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ConnectDevice.deps.json
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ConnectDevice.runtimeconfig.json
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ConnectDevice.runtimeconfig.dev.json
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ConnectDevice.dll
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ref\ConnectDevice.dll
+E:\IoT\ConnectDevice\ConnectDevice\bin\Debug\net5.0\ConnectDevice.pdb
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.csprojAssemblyReference.cache
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.GeneratedMSBuildEditorConfig.editorconfig
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.AssemblyInfoInputs.cache
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.AssemblyInfo.cs
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.csproj.CoreCompileInputs.cache
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.dll
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ref\ConnectDevice.dll
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.pdb
+E:\IoT\ConnectDevice\ConnectDevice\obj\Debug\net5.0\ConnectDevice.genruntimeconfig.cache

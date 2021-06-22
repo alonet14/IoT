@@ -71,14 +71,14 @@ function responsed(e) {
     }
     var s = ApiMessages[key];
     if (s) {
-        showMsg(s, e.Code < 0);
+        //showMsg(s, e.Code < 0);
     }
 }
 function responseOK(e) { }
 function responseError(e) { }
 
 function beginSearch() {
-    //var href = window.location.pathname;
+    var href = window.location.pathname;
     var v = window.location.pathname;
     var i = v.indexOf('/', 1);
     if (i < 0) {

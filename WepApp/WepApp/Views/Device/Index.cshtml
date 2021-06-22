@@ -5,7 +5,7 @@
         DataSource = Model,
         Columns = new List<ColumnInfo>
         {
-            new ColumnInfo { Name = "Id", ClassName = "lg-12", Caption = "Mã thiết bị" },
+            new ColumnInfo { Name = "Id", ClassName = "lg-12", Caption = "" },
             new ColumnInfo { Name = "Name", ClassName = "lg-12", Caption = "Tên thiết bị" },
         },
     };
@@ -28,5 +28,5 @@
     var fields = @view.HtmlColumns;
     var values = @view.HtmlData;
 
-    var table = new ApiTable("/device/", fields, values, 7, "gear");
+    var table = new ApiTable("", fields, values, 7, "gear");
 </script>

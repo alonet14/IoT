@@ -54,12 +54,17 @@ namespace System.Web
         }
     }
 
+    //dinh dang html
     public class VstViewFormat
     {
+        //Du lieu 
         public object DataSource { get; set; }
+        //cot du lieu
         public List<ColumnInfo> Columns { get; set; }
         public string ExtendedActions { get; set; }
+        //khong su dung
         public int UpdateFlag { get; set; }
+
         public string VstColumns
         {
             get
@@ -112,6 +117,7 @@ namespace System.Web
                     foreach (var e in (System.Collections.IEnumerable)DataSource)
                     {
                         lst.Add(VstObject(e));
+
                     }
                     return new HtmlString('[' + string.Join(",", lst) + ']');
                 }
